@@ -6,6 +6,7 @@ Este repositorio tiene como objetivo contener el desarrollo frontend para la apl
 
 Consiste en una aplicación React
 
+
 ### ⚙️ Tecnologías utilizadas
 
 - Node js
