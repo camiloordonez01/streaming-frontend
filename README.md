@@ -1,4 +1,4 @@
-# Repositorio Front Main Streamin
+# Repositorio Front Main Streaming
 
 ## 📃 Descripción
 
